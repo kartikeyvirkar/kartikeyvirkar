@@ -7,11 +7,11 @@
 
 ![Logo](https://github.com/kartikeyvirkar/kartikeyvirkar/blob/main/Profilebanner.png)
 
-<table>
-  <tr width="1000">
-<th width="600">
+# 🛠 Languages
+<table width="100">
+  <tr  >
+<th width="600" height="300" >
 
-  # 🛠 Languages
    ###### Frontend
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,8 +29,8 @@
 
 
 </th>
-<th width="400">
-<img width="400" src="Asset/computer.gif" align="center" alt="Hello there">
+<th width="300">
+<img width="300" height="300" src="Asset/computer.gif" align="center" alt="Hello there">
 
 </th>
 </tr>
