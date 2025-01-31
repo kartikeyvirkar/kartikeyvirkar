@@ -8,7 +8,7 @@
 ![Logo](https://github.com/kartikeyvirkar/kartikeyvirkar/blob/main/Profilebanner.png)
 
 <table>
-  <tr>
+  <tr width="1000">
 <th width="600">
 
   #🛠 Languages
@@ -29,8 +29,8 @@
 
 
 </th>
-<th width="400">
-<img width="400" src="Asset/computer.gif" align="center" alt="Hello there">
+<th width="380">
+<img width="380" src="Asset/computer.gif" align="center" alt="Hello there">
 
 </th>
 </tr>
