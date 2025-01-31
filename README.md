@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-<th>
+<th width="600">
 
   #🛠 Languages
    ###### Frontend
@@ -29,8 +29,8 @@
 
 
 </th>
-<th width="460">
-<img width="460" src="Asset/computer.gif" align="center" alt="Hello there">
+<th width="400">
+<img width="400" src="Asset/computer.gif" align="center" alt="Hello there">
 
 </th>
 </tr>
