@@ -3,10 +3,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;" alt="Typing SVG" />
-
-
-![Logo](https://github.com/kartikeyvirkar/kartikeyvirkar/blob/main/Profilebanner.png)
-
+  
 # 🛠 Languages
 <table width="100">
   <tr  >
