@@ -40,7 +40,7 @@
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
- [![wakatime](https://wakatime.com/badge/user/4d06c790-b48b-477d-adca-4ccb2c371fe1.svg)]()
+ [![wakatime](https://wakatime.com/badge/user/47b889e6-b483-43f1-8708-6887bcbcdfc0.svg)](https://wakatime.com/@47b889e6-b483-43f1-8708-6887bcbcdfc0)
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"><table>
 
